@@ -25,7 +25,7 @@
     <h2>Minu Esimene Pilt</h2>
     <img src="mina.png" alt="Minu esimene pilt">
 
-    <h2>Proovi külastada TalTechi veebilehte</h2>
+    <h2>Proovi külastada TalTechi veebilehte </h2>
     <p>Kui soovid teada saada rohkem Tallinna Tehnikaülikooli kohta, siis võid külastada <a href="https://taltech.ee/">TalTechi veebilehte</a>.</p>
 </body>
 </html>
